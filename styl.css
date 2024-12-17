@@ -1,0 +1,74 @@
+.doto{
+    font-size: 60px;
+    align-self: auto;
+    text-align:center;
+    color: whitesmoke;
+    font-family: "Doto", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <700>;
+      font-style: normal;
+      font-variation-settings:
+        "ROND" 0;
+    
+    }
+body{
+    background-color: black;
+}
+.foto1{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 420px;
+}
+.text{
+    text-align:justify;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 25px;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: whitesmoke;
+    margin: 150px;
+    margin-top: 0px;
+
+}
+.text2{
+    text-align:right;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 25px;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: whitesmoke;
+      margin: 150px;
+      margin-top: 0px;
+
+}
+.foto2{
+    float: left;
+    display: block;
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+}
+.foto3{
+    height: 40px;
+    width: 40px;
+    margin: 2px 2px 2px 0;
+    margin-bottom: 30px;
+}
+.foto4{
+    height: 40px;
+    width: 40px;
+    margin: 2px 2px 2px 0;
+    margin-bottom: -30px;
+}
+.foto5{
+    float: right;
+    display: block;
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+}
